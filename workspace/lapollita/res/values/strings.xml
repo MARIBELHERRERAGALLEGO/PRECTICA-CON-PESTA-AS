@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">lapollita</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_actividad_uno">ActividadUno</string>
+    <string name="title_activity_actividad_dos">ActividadDos</string>
+    <string name="title_activity_actividad_tres">ActividadTres</string>
+    <string name="title_activity_actividad_cuatro">ActividadCuatro</string>
+    <string name="title_activity_actividad_cinco">ActividadCinco</string>
+
+</resources>
